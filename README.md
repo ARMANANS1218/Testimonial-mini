@@ -9,6 +9,6 @@ A React-based testimonials carousel that dynamically displays user reviews. This
 - **Styled with Tailwind CSS**: Modern and clean design using Tailwind's utility classes.
 
 ## Demo
-![Project Preview](./demo.png) *(Add a screenshot or GIF of your project here)*
+![Project Preview](./Demo.png) *(Add a screenshot or GIF of your project here)*
 
 
